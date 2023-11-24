@@ -1,0 +1,37 @@
+Privacy Policy for [Your App Name]
+
+1. Introduction
+
+Welcome to Flashlight - Front and Back This Privacy Policy is designed to help you understand how your personal information is collected, used, and safeguarded when you use our mobile application.
+
+2. Information We Collect
+
+2.1 Camera and Flashlight Access:
+
+Flashlight - Front and Back requires access to your device's camera and flashlight functionalities to provide features such as turning on and off the back and front flashlights and the flickering effect. This access is used solely for the intended purpose of enhancing your user experience.
+2.2 Usage Data:
+
+Flashlight - Front and Back may collect anonymous usage data, such as the frequency and duration of app usage. This information helps us improve our services and fix any potential issues.
+3. How We Use Your Information
+
+3.1 Service Improvement:
+
+The information collected, including camera and flashlight access, is used to improve and optimize the functionality of Flashlight - Front and Back.
+3.2 Customer Support:
+
+We may use your information to respond to your inquiries, questions, and/or other requests.
+4. Security
+
+We prioritize the security of your information and take reasonable precautions to protect it. However, no method of transmission over the internet or electronic storage is 100% secure.
+
+5. Changes to This Privacy Policy
+
+We reserve the right to update or modify this Privacy Policy at any time. You will be notified of any changes by posting the new Privacy Policy on this page.
+
+6. Contact Us
+
+If you have any questions or concerns regarding this Privacy Policy, please contact us at techspy159@gmail.com.
+
+7. Consent
+
+By using Flashlight - Front and Back, you consent to our Privacy Policy and agree to its terms.
